@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\TrabalhoLTPV\bin\Debug\TrabalhoLTPV.exe.config
+C:\Users\Daniel\source\repos\TrabalhoLTPV\bin\Debug\TrabalhoLTPV.exe
+C:\Users\Daniel\source\repos\TrabalhoLTPV\bin\Debug\TrabalhoLTPV.pdb
+C:\Users\Daniel\source\repos\TrabalhoLTPV\obj\Debug\TrabalhoLTPV.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\TrabalhoLTPV\obj\Debug\TrabalhoLTPV.Form1.resources
+C:\Users\Daniel\source\repos\TrabalhoLTPV\obj\Debug\TrabalhoLTPV.Properties.Resources.resources
+C:\Users\Daniel\source\repos\TrabalhoLTPV\obj\Debug\TrabalhoLTPV.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\TrabalhoLTPV\obj\Debug\TrabalhoLTPV.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\TrabalhoLTPV\obj\Debug\TrabalhoLTPV.exe
+C:\Users\Daniel\source\repos\TrabalhoLTPV\obj\Debug\TrabalhoLTPV.pdb
